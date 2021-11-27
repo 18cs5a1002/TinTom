@@ -85,6 +85,9 @@ p{
     #title{
         text-align: center !important;
     }
+    .nav-link{
+        text-align: right;
+    }
 } 
 
 /*Features*/
